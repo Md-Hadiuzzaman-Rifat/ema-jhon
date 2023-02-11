@@ -1,0 +1,46 @@
+li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  margin: 2px;
+}
+ul {
+  margin: 0;
+}
+nav {
+  background-color: black;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+}
+li:hover {
+  background-color: gray;
+  border-radius: 5px;
+}
+.link {
+  border: 3px solid orange;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.link:hover {
+  cursor: pointer;
+}
+input {
+  margin: 0;
+  margin-bottom: 10px;
+  width: 250px;
+  font-size: medium;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}

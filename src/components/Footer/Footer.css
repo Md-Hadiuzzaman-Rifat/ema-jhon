@@ -1,0 +1,18 @@
+.footer-btn {
+  margin: 50px 5px;
+  padding: 10px 20px;
+  border: none;
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.footer-btn-selected {
+  margin: 50px 5px;
+  padding: 10px 20px;
+  border: none;
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
